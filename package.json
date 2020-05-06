@@ -12,7 +12,7 @@
   "dependencies": {
     "attila": "github:zutrinken/attila#1.13.0",
     "bleak": "github:zutrinken/bleak#1.4.0",
-    "casper": "github:ronlut/RonlutCasper#93bba534c71cc514ae7d66f078d02ddfa61a8aec",
+    "casper": "github:ronlut/RonlutCasper#760f550412000b85e585cc67c94a4d6ba66d6883",
     "odin": "github:h4t0n/odin",
     "ghost": "^3.2.0",
     "ghost-storage-adapter-s3": "^2.8.0",
